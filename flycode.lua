@@ -1,4 +1,4 @@
-local player = GetLocalPlayer()
+:runahsl local player = GetLocalPlayer()
 local char = player.Character
 local hrp = char:WaitForChild("HumanoidRootPart")
 local hum = char:WaitForChild("Humanoid")
